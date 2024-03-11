@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Website development",
+      "imageSrc": "project/project.png",
+      "description": "Developed a website named STORECODE for providing referral marketing solutions for influencers. It allows users to create and manage online stores and earnrom every purchase made using refferal codes" ,
+      "skills": ["Html", "css", "javascript"],
+      "demo": "https://storecode.in/",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Password safety checking tool",
+      "imageSrc": "project/project.png",
+      "description": "Built a tool using python to check whether our password has been hacked at any period of time. Security provided by not sharing our password with any other website during the process of checking.\n Modules used : REQUEST,HASHLIB",
+      "skills": ["REQUEST","HASHLIB"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project on reinforcement of soil",
+      "imageSrc": "project/project.png",
+      "description": "Soil reinforcement is a technique used to improve the strength of soil by using few methods .",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
